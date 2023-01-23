@@ -1,0 +1,5 @@
+/TemaSPT/src/main/java/com/example/TemaSPT/controller/ProductController.java
+/TemaSPT/src/main/java/com/example/TemaSPT/TemaSptApplication.java
+/TemaSPT/src/main/java/com/example/TemaSPT/repository/ProductRepository.java
+/TemaSPT/src/main/java/com/example/TemaSPT/model/Product.java
+/TemaSPT/src/main/java/com/example/TemaSPT/service/ProductService.java

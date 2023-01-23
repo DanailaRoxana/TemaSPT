@@ -1,0 +1,6 @@
+com/example/TemaSPT/repository/ProductRepository.class
+com/example/TemaSPT/TemaSptApplication.class
+com/example/TemaSPT/controller/ProductController.class
+com/example/TemaSPT/service/ProductService.class
+com/example/TemaSPT/model/Product.class
+com/example/TemaSPT/model/Product$ProductBuilder.class
